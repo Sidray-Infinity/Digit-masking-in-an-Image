@@ -1,0 +1,4 @@
+1) Download the Final Code.py and synthetic_dataset4.h5 to run the file. Rest other files are for reference.
+2) Modify the path of loading model in Final Code.py in 'withModel' function to match the path of synthetic_dataset4.h5.
+3) Pass in the path of the image as parameter while calling the 'withModel' function, and the output image will be displayed and saved in the same path.
+4) A few example images are also included.
